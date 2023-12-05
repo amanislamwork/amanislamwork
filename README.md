@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **HTML , Css and Javascript**
+- 💬 Ask me about **HTML , Css , Javascript and PHP**
 
 - 📫 How to reach me **amanislamwork@gmail.com**
 
