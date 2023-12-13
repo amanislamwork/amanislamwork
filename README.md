@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanislamwork" alt="amanislamwork" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I'm currently learning **React JS** and it's going pretty well!
 
 - 💬 Ask me about **HTML , Css , Javascript and PHP**
 
