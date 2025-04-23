@@ -3,7 +3,7 @@
 
 # ⚜️ About Me:
 👨‍💻Guess what? I've got complete-blown knowledge of  **frontend development**, and a pretty stable hold close of backend too! But that's now not sufficient for me - I'm on a adventure to construct myself up as a **full stack developer!** It's gonna be one heck of a ride, however I can't wait to look wherein it takes me! ✨
-<br><br>🌱 **I’m currently learning:**  <br>**React Js**  <br><br>💬 **Ask me about:**  <br>HTML, Css, Bootstrap, Javascript, and PHP<br><br>⚡ **Other than it**  <br>I enjoy hitting the gym and pushing my body to the limits!  🏋️
+<br><br>🌱 **I’m currently learning:**  <br>**Node Js**  <br><br>💬 **Ask me about:**  <br>HTML, Css, Bootstrap, Javascript, PHP, Wordpress and React<br><br>⚡ **Other than it**  <br>I enjoy hitting the gym and pushing my body to the limits!  🏋️
 
 
 ## 🌐 Socials:
